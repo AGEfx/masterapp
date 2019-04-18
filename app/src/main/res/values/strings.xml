@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">masterapp</string>
+    <string-array name="colorslist">
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Желтый</item>
+        <item>Синий</item>
+        <item>Оранжевый</item>
+        <item>Розовый</item>
+        <item>Бирюзовый</item>
+    </string-array>
+
+
+</resources>
